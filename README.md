@@ -33,7 +33,7 @@ Here you can create your profile and share helpful AI Prompts and also explore d
 👉 **Discover and Share AI Prompts**: Allow users to discover AI prompts shared by the community and create their own prompts to share with the world.
 
  
-  ![Landing Page](public/assets/images/landing.png)
+  ![Landing Page](public/assets/images/aftersignin.png)
 
 👉 **Profile Page**: Each user gets a dedicated profile page showcasing all the prompts they've created, providing an overview of their contributions.
 
