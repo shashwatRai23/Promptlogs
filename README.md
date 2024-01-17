@@ -5,9 +5,10 @@
   </div>
 
   <h3 align="center">Next.js 14 AI Prompt Sharing Application</h3>
-
-## Promptlogs
-![PreviewImage](public/assets/images/logo.svg)
+<div align="center">
+    ## Promptlogs
+    ![PreviewImage](public/assets/images/logo.svg)
+</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
