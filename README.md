@@ -1,5 +1,5 @@
 ## Promptlogs
-![PreviewImage](public/assets/images)
+![PreviewImage](public/assets/images/logo.svg)
 
 ## About
 1. Landing Page
