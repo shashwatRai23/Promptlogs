@@ -3,6 +3,7 @@
 
 ## Description
 **Discover & Share AI-Powered Prompts**
+
 Promptlogs is an open-source AI prompting tool for modern world to discover, create and share cretaive prompts.
 Here you can create your profile and share helpful AI Prompts and also explore diffrent AI prompts shared by different people.
 
