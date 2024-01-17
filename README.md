@@ -31,3 +31,12 @@ Here you can create your profile and share helpful AI Prompts and also explore d
   ![Profile](public/assets/images/profile.png)
 
   ![PromptCard](public/assets/images/promptcard.png)
+
+## Installation
+1. Clone this repository or download the ZIP file.
+2. Run command **npm install** to install all the dependencies
+3. Create a .env file where you can define your **mongodb** and **nex-auth** credentials.
+4. Run command **npm run dev** to run project at your localhost
+
+## Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
