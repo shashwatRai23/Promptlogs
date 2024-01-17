@@ -9,9 +9,7 @@ import Form from "@Components/Form";
 const CreatePrompt = () => {
   const { data: session } = useSession();
   const router = useRouter();
-  if (!session) {
-    router.replace("/login");
-  }
+  
   const [submitting, setSubmitting] = useState(false);
   const [post, setPost] = useState({
     prompt: "",
